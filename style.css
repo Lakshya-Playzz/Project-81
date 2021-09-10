@@ -1,0 +1,10 @@
+#myCanvas{
+border-style: ridge;
+border-width: 10px;
+background-color: cornsilk;
+}
+body{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size:cover ;
+}
